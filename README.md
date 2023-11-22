@@ -125,7 +125,7 @@ In analyzing the relationship between repeat purchases and sales, i find a weak 
 - Use positive reviews in marketing efforts to build trust, and address any concerns raised to improve overall customer satisfaction.
 
 
-**Thank You**
+**Thank You** 🧑‍✈️
 
 
 
