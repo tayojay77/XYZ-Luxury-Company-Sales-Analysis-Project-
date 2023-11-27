@@ -66,8 +66,8 @@ The following Power BI were Incorporated
 - Data cleaning
 - Power query
 - Quick Measure
-- Dax
-- Page Navigation 
+- Page Navigation
+- Slicer
 
 ## Visualization
 
