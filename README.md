@@ -75,7 +75,7 @@ The following Power BI were Incorporated
 2. The distribution of sales was visualized with a Histogram.
 3. The relationship between repeat purchases and sales was visualized with a Scatter Plot.
 
-You can interact with the report here ()
+You can interact with the report here (https://app.powerbi.com/links/EQ2-kfIat2?ctid=c3bb89c4-a632-4554-8a9a-ee5285294755&pbi_source=linkShare)
 
 ## Analysis 
 
