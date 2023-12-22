@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This is a Power BI project for the Sales Analysis of **XYZ Luxury Company**, an American-based company specializing in luxury toys. The objective of this initiative is to analyze the company's sales data and extract insights to address crucial questions, thereby assisting **XYZ Luxury Company** in making data-driven decisions.
+This is a Power BI project for the Sales Analysis of **XYZ Luxury Company**, an American-based company specializing in luxury toys and other businesses. The objective of this initiative is to analyze the company's sales data and extract insights to address crucial questions, thereby assisting **XYZ Luxury Company** in making data-driven decisions.
 
 ## Data Source 
 
